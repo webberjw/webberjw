@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Dedicated professional with over 14 years of expertise in enterprise architecture reporting, governance, and data visualization with a background in IT project management. Skilled at translating complex enterprise architecture concepts into clear, accessible content. Strong foundation in technical writing, document preparation, content organization, and stakeholder communication, complemented by experience in web design and digital publishing. Currently pursuing a Software Engineering certificate to enhance technical proficiency. Adept in many tools, including PL/SQL, Microsoft Power Query, Visio, Access, HTML & CSS, Jira, Confluence, and various reporting and productivity software. Ready to communicate quantitative information thoughtfully and effectively.
+
 <!--
 **webberjw/webberjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
