@@ -1,6 +1,18 @@
-## Hi there 👋
+# Hi, I'm Julia Webber 👋  
 
-Dedicated professional with over 14 years of expertise in enterprise architecture reporting, governance, and data visualization with a background in IT project management. Skilled at translating complex enterprise architecture concepts into clear, accessible content. Strong foundation in technical writing, document preparation, content organization, and stakeholder communication, complemented by experience in web design and digital publishing. Currently pursuing a Software Engineering certificate to enhance technical proficiency. Adept in many tools, including PL/SQL, Microsoft Power Query, Visio, Access, HTML & CSS, Jira, Confluence, and various reporting and productivity software. Ready to communicate quantitative information thoughtfully and effectively.![small-cute-newborn-kitten-white-fluffy-blanket-pets-small-cute-newborn-kitten-white-fluffy-blanket-pets-care-183271760](https://github.com/user-attachments/assets/c962476a-1f0c-4940-a21c-46447991514a)
+## About Me  
+Experienced in enterprise architecture reporting, governance, and data visualization, with a background in IT project management. Currently pursuing a Software Engineering certificate to expand my technical skills.  
+
+## Skills  
+- Enterprise Architecture & Governance  
+- Data Visualization & Reporting  
+- Technical Writing & Documentation  
+- Web Design & Digital Publishing  
+- Tools: PL/SQL, Power Query, Visio, HTML & CSS, Jira, Confluence  
+
+## Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/juliawebber/)  
+- [GitHub](https://github.com/webberjw)  
 
 
 <!--
