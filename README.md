@@ -1,14 +1,14 @@
 # Hi, I'm Julia Webber 👋  
 
 ## About Me  
-Experienced in enterprise architecture reporting, governance, and data visualization, with a background in IT project management. Currently pursuing a Software Engineering certificate to expand my technical skills.  
+Experienced in enterprise architecture reporting, governance, and data visualization, with a background in IT project management. Currently pursuing a Software Engineering certificate to expand my technical skills. Available for freelance technical writing and business communications.  
 
 ## Skills  
 - Enterprise Architecture & Governance  
 - Data Visualization & Reporting  
 - Technical Writing & Documentation  
 - Web Design & Digital Publishing  
-- Tools: PL/SQL, Power Query, Visio, HTML & CSS, Jira, Confluence  
+- Tools: PL/SQL, Power BI, Power Query, Visio, HTML & CSS, Tableau, Jira, Confluence  
 
 ## Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/juliawebber/)  
