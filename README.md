@@ -8,7 +8,7 @@ Experienced in enterprise architecture reporting, governance, and data visualiza
 - Data Visualization & Reporting  
 - Technical Writing & Documentation  
 - Web Design & Digital Publishing  
-- Tools: PL/SQL, Power BI, Power Query, Visio, HTML & CSS, Tableau, Jira, Confluence  
+- Tools: PL/SQL, JavaScript, XML, HTML, CSS, Power BI, Power Query, Visio, Tableau, Jira, Confluence  
 
 ## Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/juliawebber/)  
